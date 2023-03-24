@@ -1,0 +1,1 @@
+# Call-Div-Sections-using-ID-s-03![screencapture-file-C-Users-KISHAN-Desktop-New-Call-Div-Sections-using-ID-s-03-index-html-2023-03-24-20_32_21](https://user-images.githubusercontent.com/121854064/227562565-3cc44653-342d-4033-8db2-4013e312df3e.png)
