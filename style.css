@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-color: red;
+    height: 60px;
+}
+
+
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.navbar ul li {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#one {
+    border: 1px solid black;
+    margin: 5px 15px;
+    height: 250px;
+}
+
+#two {
+    border: 1px solid black;
+    margin: 5px 15px;
+    height: 250px;
+}
+
+#three {
+    border: 1px solid black;
+    margin: 5px 15px;
+    height: 250px;
+}
+
+#four {
+    border: 1px solid black;
+    margin: 5px 15px;
+    height: 250px;
+}
+
+#five {
+    border: 1px solid black;
+    margin: 5px 15px;
+    height: 250px;
+}
+
+#six {
+    border: 1px solid black;
+    margin: 5px 15px;
+    height: 250px;
+}
+
+#seven {
+    border: 1px solid black;
+    margin: 5px 15px;
+    height: 250px;
+}
